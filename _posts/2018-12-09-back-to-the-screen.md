@@ -14,7 +14,7 @@ excerpt: This blogpost is an elaboration on ideas presented in my starter kit fo
 
 >[Alan Liu, “Toward Critical infrastructure Studies.”](https://cistudies.org/wp-content/uploads/Toward-Critical-Infrastructure-Studies.pdf)
 
-#What is Critical Infrastructure Studies?
+# What is Critical Infrastructure Studies?
 
 In his paper presented last year at the University of Connecticut, Alan Liu positions the digital humanities and new media studies as uniquely capable of addressing, conceptualizing, and critiquing "infrastructure" at various levels of scale. For Liu (as well as for others within the nascent discipline of critical infrastructure studies (or CIS)), "infrastructure" denotes not merely an account of the material, economic, scientific, and technical "base" from which cultural superstructure emerges (as in the orthodox Marxist model), but the superimposition and thorough entanglement of base and superstructure, technology and culture, materiality and discourse. Rather than positing universals, Liu presents such entanglement as particular to the experience of late modernity, in which large-scale infrastructures not only "prop up" culture but function themselves as perhaps the most significant works in our cultural milieu. Entangled ourselves, we lack both the critical distance and solid foundation for the older "schemes" of ideology-critique; instead, Liu argues, the digital humanities must embrace its "dirty-hands proximity" to postindustrialism, getting "close enough to the system to know its critical points of inflection, difference, and change." Like his theorization of _Neuromancer's_ Kuang virus in _The Laws of Cool_, the digital humanities can break into the code of postindustrialism through mimicry until there appears no difference between the two, whereupon DH might unleash its radical potential for change (7).[^fn1]
 
@@ -28,7 +28,7 @@ Taking off from Liu's brilliant conceptualization of the field, this post attemp
 
 Has game studies yet realized its own infrastructural potential?
 
-#Games Studies At Present
+# Games Studies At Present
 
 Perhaps as a result of the features above, games studies has tended toward an infrastructural orientation for around a decade. Along with the closely related disciplines of software studies, critical code studies, and media archaeology, game studies has long rejected "screen essentialism"--the practice of evaluating only what appears on the screen, thus overlooking the underlying software and hardware that make such outputs possible. Engaging the lost-standing critical practice of always "delving deeper," media theorists have argued for the necessity of developing new practices of critique that plunge the depths beneath the screen to illuminate the algorithmic or even microprocessural components of new media objects, sometimes even to the exclusion of content analysis. This McLuhanite tendency in new media studies can be traced back to (at least) Friedrich Kittler's "There is No Software" (1995), in which Kittler criticizes not only GUIs but software itself for obfuscating the "real" prime agents of computation: hardware. Recently, in _A Geology of Media_, Jussi Parikka takes this "harder! deeper!" logic to its extreme, out-Kittlering Kittler with the claim that "hardware is not hard enough"--instead we must again go deeper to explore the minerals used to produce hardware. 
 
@@ -42,7 +42,7 @@ Still others, such as Noah Wardrip-Fruin, position their work not as a rejection
 
 In all of these approaches, we can see a gesturing toward the infrastructural without quite realizing the radical superimposition of base and superstructure. While all of these tendencies assert technical systems as cultural artifacts, they still either prioritize these systems over the on-screen cultural representations or, at best, treat them as equal but separate endeavors in need of a bridge. In contrast to Liu's theorization of infrastructure, Bogost and Montfort purse the "deeper! harder!" impetus to find the "foundation" for video games, and Wardrip-Fruin's gap-and-bridge metaphors (while interestingly infrastructural) posits cultural critique and computational analysis as two independent modes that might profitably be brought together, rather than perceiving them as deeply intertwined, as inextricably entangled.
 
-#Where does a CIS Approach to Games Lead?
+# Where does a CIS Approach to Games Lead?
 
 Now I'm going to say something that I'm not sure I myself--a hardnosed media materialist almost Pavlovianly conditioned to cringe at the mere mention of "content"--even believe, but maybe, just maybe, CIS provides a compelling argument for returning back to our screens. 
 

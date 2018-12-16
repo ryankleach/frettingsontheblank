@@ -54,7 +54,7 @@ Applied to the field of game studies, are there perhaps games that do not merely
 
 Tentative answer: Maybe.
 
-[Link to Post II: Hacking Games: _else Heart.Break()_]()
+[Post II: Hacking Games: _else Heart.Break()_](https://ryankleach.github.io/frettingsontheblank/hacking-games-else-heartbreak/)
 
 [^fn1]: Of course, this also entails the dystopian possibility of the digital humanities being entirely subsumed by postindustrialism.
 

@@ -1,0 +1,78 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: frettings on the blank
+tagline: 'a digital humanities research blog'
+description: 'frettings on the blank is a research blog by Ryan Leach, an UCSB English Ph.D. student. For more information, see the about page.'
+  
+baseurl: "/frettingsontheblank" # the subpath of your site, e.g. /blog
+url: "ryankleach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# About/contact
+author: 
+  name: Ryan Leach
+  email: rkleach@ucsb.edu
+  twitter_username: ryankleach
+  github_username: ryankleach
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: red
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Build settings
+markdown: kramdown
+#theme: minima
+theme: "ed."
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+exclude:
+    - index.md

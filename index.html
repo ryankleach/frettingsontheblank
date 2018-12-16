@@ -1,0 +1,27 @@
+---
+layout: default
+title: "frettings"
+---
+<div class="introduction">
+<p>The west wind was the music, the motion, the force <br> To which the swans curveted, a will to change, <br> A will to make iris frettings on the blank.</p>
+<p style="text-align:right" >Wallace Stevens, "Notes Toward a Supreme Fiction"</p>
+</div>
+
+<hr>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+

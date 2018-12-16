@@ -19,7 +19,7 @@ In my previous post ["Back to the Screen,"](https://ryankleach.github.io/frettin
 
 [Game Designer Erik Svedang, "else {Heart.break()}"](https://eriksvedang.wordpress.com/2012/02/16/else-heart-break/)
 
-In _else Heart.Break()_, the player protagonist Sebastian accepts a job as a soda salesman in the as yet unfamiliar town of Dorisburg, Sweden. Arriving by boat, the player is left to explore the town without any navigation devices aside from street signs and (if found) a simple static tourist map (Figure 2). From here, the game at least somewhat expects you to interact with other characters, make friends, and, of course, join a cyberpunk hacker collective to fight off the ambiguously nefarious "Ministry," which has digitized the infrastructure of the city for the purpose of mass surveillance.    
+In _else Heart.Break()_, the player protagonist Sebastian accepts a job as a soda salesman in the as yet unfamiliar town of Dorisburg, Sweden. Arriving by boat, the player is left to explore the town without any navigation devices aside from street signs and (if found) a simple static tourist map. From here, the game at least somewhat expects you to interact with other characters, make friends, and, of course, join a cyberpunk hacker collective to fight off the ambiguously nefarious "Ministry," which has digitized the infrastructure of the city for the purpose of mass surveillance.    
 
 ![map]({{ site.baseurl }}/assets/img/map.jpeg)
 
@@ -29,9 +29,9 @@ But this cannot be achieved without a "Modifier," which enables the characters t
 
 ![SPRAK Programming Language]({{ site.baseurl }}/assets/img/ehb_sprak.png)
 
-The game features its own programming language called SPRAK (Swedish for "language"), a manual for which exists on a collection of 10 in-game floppy disks (fortunately all located within the same room) (Figure 3).[^fn1] Armed with a modifier and a working knowledge of SPRAK, the player can re-program any of the accessible objects in the game, whether to give a beer the effects of a cup of coffee (by replacing the DRUNKENNESS() function with a negative SLEEPINESS() function) or to create vast networks (even within the same drink) controlling the movements of characters, the flow of capital, the weather, the objects in rooms, etc.
+The game features its own programming language called SPRAK (Swedish for "language"), a manual for which exists on a collection of 10 in-game floppy disks (fortunately all located within the same room).[^fn1] Armed with a modifier and a working knowledge of SPRAK, the player can re-program any of the accessible objects in the game, whether to give a beer the effects of a cup of coffee (by replacing the DRUNKENNESS() function with a negative SLEEPINESS() function) or to create vast networks (even within the same drink) controlling the movements of characters, the flow of capital, the weather, the objects in rooms, etc.
 
-As if that weren't enough, _else Heart.Break()_ also encourages hacking the game itself (Figure 4). 
+As if that weren't enough, _else Heart.Break()_ also encourages hacking the game itself. 
 
 ![Screenshot from [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=610184203). Author: Lstor.]({{ site.baseurl }}/assets/img/ehb_meta.png)
 

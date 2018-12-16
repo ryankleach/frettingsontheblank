@@ -17,7 +17,7 @@ In my previous post ["Back to the Screen,"](https://ryankleach.github.io/frettin
 
 >The idea is to create opportunities for truly creative gameplay that goes beyond the kind of puzzle solving and stats improvement normally seen in games. Ideally it even allows the player to free herself from the designer of the game! 
 
-[Game Designer Erik Svedang, "else {Heart.break()}"]({{ site.baseurl }}/assets/img/https://eriksvedang.wordpress.com/2012/02/16/else-heart-break/)
+[Game Designer Erik Svedang, "else {Heart.break()}"](https://eriksvedang.wordpress.com/2012/02/16/else-heart-break/)
 
 In _else Heart.Break()_, the player protagonist Sebastian accepts a job as a soda salesman in the as yet unfamiliar town of Dorisburg, Sweden. Arriving by boat, the player is left to explore the town without any navigation devices aside from street signs and (if found) a simple static tourist map (Figure 2). From here, the game at least somewhat expects you to interact with other characters, make friends, and, of course, join a cyberpunk hacker collective to fight off the ambiguously nefarious "Ministry," which has digitized the infrastructure of the city for the purpose of mass surveillance.    
 

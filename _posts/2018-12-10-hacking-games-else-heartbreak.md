@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Hacking Games: else Heart.Break()"
 author: Ryan Leach
 date: 2018-12-10

@@ -7,3 +7,7 @@ layout: default
   <p class="date"> Posted on {{ page.date | date: "%B %e, %Y" }}</p>
   {{ content }}
 </div>
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}

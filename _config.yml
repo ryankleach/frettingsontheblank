@@ -63,7 +63,8 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: https-ryankleach-github-io-frettingsontheblank-1
 
-
+# Google Analytics
+google_analytics: UA-131265514-1
 
 plugins:
   - jekyll-feed

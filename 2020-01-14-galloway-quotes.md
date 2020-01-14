@@ -40,7 +40,7 @@ date: 2020-01-14
 
 ---
 
-## Ideology and/or Informatic Critique
+## Ideology and/or Structural Critique
 
 > "Analyses of power relations often spend a great deal of time on the ideological content of political struggle: how the values of Islamic fundamentalism, or U.S. arrogance, produced within a certain historical context, lead to or justify violent actions. However, there is another view that focuses on the architecture of power, not just on its ideological content." (106)
 

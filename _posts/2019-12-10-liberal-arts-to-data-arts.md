@@ -2,8 +2,9 @@
 layout: post
 title: "From Liberal Arts to Data Arts: The New Dream for a Common Language"
 author: Ryan Leach
-date: 2019-12-15
-excerpt: ""
+date: 2021-5-3
+excerpt: "Prompted by the emergence of interdisciplinary data science programs at major U.S. universities, Alan Liu’s latest [graduate seminar](https://alanyliu.org/course/english-238-the-humanities-and-data-science-fall-2019/) posits data science as the new liberal arts, a universal and totalizing form of knowledge that touches all disciplines, cultures, and histories. With this massive transition (or, more pessimistically, overhaul) of the liberal arts framework, data science fundamentally alters not only traditional disciplines of study but also and intrinsically, global power structures, economic modes, subjectivities, and forms of resistance/revolution.  Without imposing a cause-and-effect relationship, this post ruminates on the emerging constellation of paradigmatic shifts from liberal arts to data arts and from the liberal humanist subject to the posthuman or cyborg, alongside transformations in the structuring and dissemination of knowledge.
+"
 ---
 
 Prompted by the emergence of interdisciplinary data science programs at major U.S. universities, Alan Liu’s latest [graduate seminar](https://alanyliu.org/course/english-238-the-humanities-and-data-science-fall-2019/) posits data science as the new liberal arts, a universal and totalizing form of knowledge that touches all disciplines, cultures, and histories. With this massive transition (or, more pessimistically, overhaul) of the liberal arts framework, data science fundamentally alters not only traditional disciplines of study but also and intrinsically, global power structures, economic modes, subjectivities, and forms of resistance/revolution.  Without imposing a cause-and-effect relationship, this post ruminates on the emerging constellation of paradigmatic shifts from liberal arts to data arts and from the liberal humanist subject to the posthuman or cyborg, alongside transformations in the structuring and dissemination of knowledge.

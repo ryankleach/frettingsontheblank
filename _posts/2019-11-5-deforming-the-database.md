@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Deforming the Database: A DH Project on Interactive Fiction"
 author: Ryan Leach
-date: 2019-11-5
+date: 2021-5-3
 excerpt: At the crossroads of literature and games, Interactive Fiction (IF) has long attracted scholars of literary studies, game studies, and computer science. Also known as "text-based adventure games," IF preceded graphical home computer games, taking place in the textual interface of the command line. The computer provides a textual description of the game world and the player inputs commands through a text parser in order to direct the protagonist through this textual environment. Underneath, there's lots of code, but on the surface, there's only the ebb and flow of natural language, of text. Almost all of IF criticism focuses on the code below (Pias) or the player's interaction (Aarseth) or the code implied in the player's interaction (Douglass)--but what if we directed our attention instead only to this textual surface, fishing it out from the source files and leaving (or banishing) the code and player in the depths?
 ---
 

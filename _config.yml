@@ -46,7 +46,8 @@ collections:
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: "ed."
+# theme: "ed."
+remote_theme: https://github.com/minicomp/ed@v1.3.0
 
 kramdown:
   auto_ids:       true

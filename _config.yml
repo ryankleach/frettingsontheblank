@@ -65,8 +65,7 @@ disqus:
   shortname: https-ryankleach-github-io-frettingsontheblank-1
 
 # Google Analytics
-google_analytics: 
-	id: "G-SNCV2RMVKQ"
+google_analytics: G-SNCV2RMVKQ
 
 plugins:
   - jekyll-feed
